@@ -1,0 +1,7 @@
+export { default as Header } from './Header'
+export { default as Welcome } from './Welcome'
+export { default as SenderAddress } from './SenderAddress'
+export { default as ReceiverAddress } from './ReceiverAddress'
+export { default as ShippingOption } from './ShippingOption'
+export { default as Confirm } from './Confirm'
+export { default as Success } from './Success'
